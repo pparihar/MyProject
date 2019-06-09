@@ -1,0 +1,5 @@
+- host: localhost
+  roles: 
+    - jenkins
+  tags: jenkins	
+	
